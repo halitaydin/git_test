@@ -1,1 +1,1 @@
-git is awesome! learn commit messagest
+git is awesome! learn commit messages
